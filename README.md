@@ -15,6 +15,9 @@ Bluetooth).
 
 - **Esqueci minha senha**: novo link logo abaixo do campo de senha na tela de
   login, com tela de recuperação de senha (confirmação e mínimo de 6 caracteres).
+- **Redefinição de senha com PIN**: o app envia um PIN de 6 dígitos para o
+  e-mail cadastrado e só aceita a nova senha com o PIN correto (válido por
+  10 minutos e de uso único).
 - **Aprovação de aparelho automática**: o check-in passa a valer assim que o
   aparelho é registrado, sem depender da aprovação do instrutor.
 - **Correção das telas em branco** e dos travamentos no check-in automático.
